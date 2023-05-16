@@ -6,7 +6,7 @@
 To create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
+ 
 Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
