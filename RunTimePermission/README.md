@@ -211,7 +211,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-
+https://github.com/Syam-tej/Advance-Android-Odd-/blob/main/RunTimePermission/1.png
 
 
 ## RESULT
