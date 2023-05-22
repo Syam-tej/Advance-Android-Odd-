@@ -128,9 +128,5 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/164eb9b1-1081-44d5-806f-62dd6578925c)
 
-
-
-
-
 ## RESULT
 Thus a Simple Android Application to display the details of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
