@@ -210,8 +210,12 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT
+![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/397ff962-6a2f-4dc6-86bd-06908aaad013)
+![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/1efcc1bc-5a47-4171-a7ec-dc50daa5fb53)
+![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/a80f79da-d7bf-44f5-afc1-c06edf02b6ad)
+![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/3501bf0b-2825-4e10-a487-875daba5bbc3)
+![image](https://github.com/Syam-tej/Advance-Android-Odd-/assets/93427224/2805cfd9-6f2f-4e3f-9e50-5527bce6fb41)
 
-![Uploading image.png…]()
 
 
 ## RESULT
